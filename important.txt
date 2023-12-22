@@ -1,0 +1,17 @@
+
+In order to effectively solve a problem - it is best to have a set up that works regaardless of if the problem changes.
+How do you go about solving problems? 
+Below is an effective technique that I have used for years.
+
+
+POLYA'S PROBLEM SOLVING TECHNIQUE
+1. What is the problem? What is the question asking you to do?
+2. Make a plan to solve it / satisfy requirements
+3. Implement the plan 
+4. Go back & check. If need be: Revise / Refactor
+
+Be sure to read the instructions/task/descriptions thoroughly.
+Majority if not all the information is given (for higher katas)
+As the difficulties get higher, you are expected to have knowledge of fundamentals including objects and the properties.
+
+LeetCode has daily challenges that users can solve. This is great practice for self, coding interviews and structures of codebases
